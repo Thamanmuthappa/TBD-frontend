@@ -19,9 +19,6 @@
 # Features
 
 
-# Buisness Model
-
-
 # Tech Stack
 
 
